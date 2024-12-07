@@ -5,7 +5,7 @@
 
 
 >더 강력한 실제 바이러스를 찾고 계신다면 저의 **Repositories**중 [Batch_File_Project](https://github.com/Anion15/Batch_File_Project) 참고하세요.
->>위의 **Batch_File_Project**는 진짜 위험한 바이러스입니다. 하지만 적정하지 마세요, [Detailed recovery methods](https://github.com/Anion15/Batch_File_Project?tab=readme-ov-file#detailed-recovery-methods)에는 Batch_File_Project의 복구 방법을 게재하고 있습니다.
+>>위의 **Batch_File_Project**는 진짜 위험한 바이러스입니다. 하지만 걱정하지 마세요, [Detailed recovery methods](https://github.com/Anion15/Batch_File_Project?tab=readme-ov-file#detailed-recovery-methods)에는 Batch_File_Project의 복구 방법을 게재하고 있습니다.
 
 # Virus 작동 방식
 
